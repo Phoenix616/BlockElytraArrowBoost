@@ -1,0 +1,19 @@
+name: ${project.name}
+main: de.themoep.blockelytraarrowboost.BlockElytraArrowBoost
+version: '${minecraft.plugin.version}'
+description: ${project.description}
+authors: [Phoenix616]
+commands:
+   BlockElytraArrowBoost:
+      aliases: [beab]
+      description: Basic BlockElytraArrowBoost command
+      usage: /<command> [reload]
+      permission: BlockElytraArrowBoost.command
+      permission-message: You don't have the permission <permission>
+permissions:
+   blockelytraarrowboost.command:
+      description: Gives permission to the plugin command
+      default: op
+   blockelytraarrowboost.bypass:
+      description: Gives permission to bypass the block
+      default: false

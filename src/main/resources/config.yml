@@ -1,0 +1,3 @@
+# The message to send to a user when he tries to boost himself
+# Set to an empty message to disable it!
+warningmessage: "&cBoosting yourself with arrows whily gliding with an Elytra is blocked!"
