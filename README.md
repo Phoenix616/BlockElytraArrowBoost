@@ -1,6 +1,8 @@
 # BlockElytraArrowBoost
 Simple bukkit plugin to block boosting yourself with arrows while gliding with an Elytra!
 
+There is also a [Block Elytra Arrow Boost resource page](https://www.spigotmc.org/resources/block-elytra-arrow-boost.23404/) with compiled downloads on SpigotMC.org.
+
 ## Command
 
  `/BlockElytraArrowBoost` short `/beab`    
